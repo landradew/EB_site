@@ -1,0 +1,3 @@
+# para identificar un parrafo
+si se pisan las reglas en el css pesa mas especifica
+contenido siempre va en body, head es para el navegador. el footer va tb en el body
